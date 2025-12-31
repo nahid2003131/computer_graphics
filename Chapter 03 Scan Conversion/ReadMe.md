@@ -1,4 +1,4 @@
-## 📂 Computer Graphics Algorithm Implementations
+## 📂 Computer Graphics Scan Conversion Algorithm Implementations
 
 ### 🔹 Line Drawing Algorithms
 - **a_pointconversion.cpp**  
